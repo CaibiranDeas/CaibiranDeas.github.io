@@ -1,0 +1,35 @@
+
+body {
+    background-color: black;
+}
+
+#sixteen {
+    
+    font-size: 80px;
+    font-family: didot;
+    letter-spacing: 1px;
+    color: white;
+     text-align: center;
+
+    padding-right: 50px; 
+   
+    position:fixed;
+    bottom:70px;
+  right:170px;
+    
+}
+
+#seventeen {
+    
+        
+    font-size: 30px;
+    font-weight: bold;
+    font-family: didot;
+    letter-spacing: 1px;
+    color: hotpink;
+     text-align: center;
+
+    padding-right: 50px;
+    
+    
+}

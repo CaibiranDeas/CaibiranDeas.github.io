@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+
+#twentytwo {
+    
+    color: red;
+        font-size: 10px;
+    font-weight: lighter;
+    font-family: didot;
+    letter-spacing: 15px;
+    color: red;
+     text-align: center;
+
+    padding-right: 50px;
+    padding-left: 50px;
+   
+    
+}

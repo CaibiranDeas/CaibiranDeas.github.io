@@ -1,0 +1,28 @@
+#one {
+    position: fixed;
+/*    top:450px;*/
+    left:0px;
+    bottom: 0px;
+    pointer-events: none;
+    
+     }
+
+body {
+/*    height: 3000px;*/
+     }
+
+
+/*this is the link for the pages */
+a {
+color:black;
+font-family: "Didot", serif;
+    font-size: 40pt; 
+    
+    width: 100%;
+    display: inline-block;
+
+   text-decoration: none; 
+    
+    z-index: 100;
+}
+a:hover{color: aqua}

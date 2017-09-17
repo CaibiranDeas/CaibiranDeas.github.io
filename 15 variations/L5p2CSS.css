@@ -1,0 +1,39 @@
+#eighteen {
+    
+    font-size: 30px;
+    font-weight: bold;
+    font-family: didot;
+    letter-spacing: 1px;
+    color: orange;
+     text-align: center;
+line-height: 100px;
+    padding-right: 50px;
+   
+}
+
+
+#nineteen {
+    
+    font-size: 200px;
+    
+    font-family: didot;
+    letter-spacing: 20px;
+    color: darkgrey;
+     text-align: left;
+line-height: 100px;
+    padding-right: 50px;
+    padding-top: 50px;  
+}
+
+#twenty {
+    
+    font-size: 100px;
+   
+    font-family: didot;
+    letter-spacing: 20px;
+    color: orange;
+     text-align: left;
+line-height: 100px;
+     
+    
+}

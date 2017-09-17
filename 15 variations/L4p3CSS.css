@@ -1,0 +1,48 @@
+#thirteen {
+   
+
+    font-size: 150px;
+    font-family: didot;
+    letter-spacing: 1px;
+    
+     text-align: right;
+
+    padding-right: 50px;
+    
+    
+    
+    
+}
+
+#fourteen{
+    
+   
+    font-size: 10px;
+    font-family: didot;
+    letter-spacing: 30px;
+    
+     text-align: left;
+
+    padding-right: 50px;
+    position:fixed;
+        bottom:50px;
+        left: 40px;
+    font-weight: bold;
+    
+}
+
+#fifteen{
+    
+   
+    font-size: 10px;
+    font-family: didot;
+    letter-spacing: 30px;
+    
+     text-align: left;
+
+    padding-right: 50px;
+    
+    position:fixed;
+        bottom:250px;
+        left: 40px;
+}
